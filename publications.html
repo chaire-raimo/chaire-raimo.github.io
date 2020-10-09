@@ -17,3 +17,29 @@ permalink: /publications/
     </div>
   </div>
 </section>
+
+
+
+# **Project**
+<ol>
+{% for pub in publications %}
+ {% if pub.type == 'project' %}
+ <li>
+ <div class="pubitem">
+   <div class="pubauthors">
+     {{ pub.authors }}
+   </div>
+   <div class="pubtitle">
+     {{ pub.title }}
+   </div>
+   <div class="pubinfo">
+     {{ pub.publication }}, {{ pub.year}}.
+   </div>
+ </div>
+ <div class="publinks">
+   <a href="/download/{{ pub.slug}}.pdf"><i class="far fa-file-pdf"></i> PDF</a>&nbsp;&nbsp;
+ </div>
+ </li>
+ {% endif %}
+{% endfor %}
+</ol>

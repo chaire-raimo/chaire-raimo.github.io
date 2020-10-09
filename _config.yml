@@ -28,6 +28,15 @@ markdown: kramdown
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
+
+
+### Collections ###
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name
+
+
 # Category descriptions (for archive pages)
 descriptions:
   - cat: jekyll
