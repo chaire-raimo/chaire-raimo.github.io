@@ -32,3 +32,5 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+@import "publications";
