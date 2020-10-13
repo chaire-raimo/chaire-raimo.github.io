@@ -8,7 +8,7 @@ image: true
 ---
 
 
-On Tuesday, October 13th, will take place the second activity of the Matinale de La Pépinière, organized by the Seine-Eure agglomeration, whose theme will be dedicated to Artificial Intelligence.
+On Tuesday, October 13, will take place a new event of the Matinale de La Pépinière, organized by the Seine-Eure agglomeration, whose theme will be dedicated to Artificial Intelligence.
 
 
 For this second event, Stéphane Canu will present the industrial applications of Artifical Intelligence and how the latter has been invited in recent years in the automotive industry through the deployment of autonomous vehicles.
