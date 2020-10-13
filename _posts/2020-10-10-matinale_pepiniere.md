@@ -16,6 +16,3 @@ For this second event, Stéphane Canu will present the industrial applications o
 You can find more information on the <a href="https://www.agglo-seine-eure.fr/actualites/rendez-vous-13-octobre-matinale-pepiniere/">Seine-Eure agglomeration website</a>.
 
 
-
-
-Le mardi 13 octobre aura lieu la deuxième animation de la Matinale de La Pépinière organisée par l'agglomération Seine-Eure, dont la thématique sera dédiée à l'Intelligence Artificielle.
