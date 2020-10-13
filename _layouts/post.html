@@ -14,6 +14,9 @@ layout: page
               <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
             </div>
             <hr />
+  	    {% if page.image %}
+  	    <img class="publication-teaser" src="{{ page.slug }}.png" alt="News teaser"/>
+  	    {% endif %}
             <p>{{ content }}</p>
           </div>
         </div><!-- .col-md-7 close -->

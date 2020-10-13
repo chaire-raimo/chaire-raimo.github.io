@@ -4,6 +4,7 @@ title: Public conference on AI in automotive industry
 subtitle: We will be present at the Matinale de La Pépinière
 date: 2020-10-10
 author: Jordan Frecon
+image: true
 ---
 
 
