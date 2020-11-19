@@ -40,3 +40,7 @@
   min-height: 150px;
   background-color: white;
 }
+
+.pub-title {
+ font-weight: bold;
+}
