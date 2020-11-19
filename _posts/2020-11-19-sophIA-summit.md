@@ -2,7 +2,7 @@
 layout: post
 title: Invited Talk at the SophI.A Summit
 subtitle: About adversarial examples and robustness certificates
-date: 2020-10-10
+date: 2020-11-19
 author: Jordan Frecon
 image: true
 ---
@@ -13,6 +13,6 @@ On November 19th, Stéphane Canu will present a joint work Ismaïla Seck & Gaell
 on *Adversarial examples and robustness certificates*.
 
 
-You can find more information on the <a href="https://univ-cotedazur.fr/events-uca/sophia-summit">SophI.A Summit website</a>.
+More information about the event can be found on the <a href="https://univ-cotedazur.fr/events-uca/sophia-summit">SophI.A Summit website</a>.
 
 
