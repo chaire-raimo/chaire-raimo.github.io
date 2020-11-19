@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: ANR Project RAIMo - A road toward safe artificial intelligence in Mobility
+title: RAIMo - A road toward safe artificial intelligence in Mobility
 authors: Stéphane Canu
-publication: project
+publication: ANR Project
 year: 2020
 doi:
 type: project
