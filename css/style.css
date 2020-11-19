@@ -33,3 +33,10 @@
   color: #0D0017;
 }
 
+
+.pub-area {
+  padding: 40px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
+}
