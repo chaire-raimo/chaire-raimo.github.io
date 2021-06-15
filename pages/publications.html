@@ -19,6 +19,35 @@ permalink: /publications/
 </section>
 
 
+
+<div class="pub-area">
+<h1>Articles</h1>
+<ol>
+{% for pub in site.publications %}
+ {% if pub.type == 'article' %}
+ <li>
+ <div class="pubitem">
+   <div class="pubauthors">
+     {{ pub.authors }}
+   </div>
+   <div class="pub-title">
+     {{ pub.title }}
+   </div>
+   <div class="pubpublication">
+     {{ pub.publication }}, {{pub.pubdate}}, {{pub.year}}.
+   </div>
+ </div>
+ <div class="publinks">
+   <a href="/{{ pub.slug}}.pdf"><i class="far fa-file-pdf"></i> PDF</a>&nbsp;&nbsp;
+ </div>
+ </li>
+ {% endif %}
+{% endfor %}
+</ol>
+</div>
+
+
+
 <div class="pub-area">
 <h1>Talks</h1>
 <ol>
