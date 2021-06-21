@@ -41,6 +41,10 @@
   background-color: white;
 }
 
+.pub-area li {
+  margin: 0 0 3px 0;
+}
+
 .pub-title {
  font-weight: bold;
 }
