@@ -476,8 +476,8 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: all 0.4s ease-in-out;
 }
 #portfolio-work .block .portfolio-contant ul li {
-  display: inline-block;
-  width: 23.8%;
+  float: left;
+  width: 23.7%;
   overflow: hidden;
   margin: 6px;
   position: relative;
